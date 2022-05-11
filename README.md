@@ -1,11 +1,8 @@
-<<<<<<< HEAD
 # django api authentication
 
 ## depencies
-=======
 # auth
 Django social media backend project.
->>>>>>> f0a1597 (auth)
 
  - django
  - djongo
